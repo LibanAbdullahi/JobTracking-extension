@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="128" height="128" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle -->
+  <circle cx="64" cy="64" r="60" fill="#2eaadc"/>
+  
+  <!-- Briefcase icon -->
+  <path d="M88 48h-8v-8c0-4.4-3.6-8-8-8H56c-4.4 0-8 3.6-8 8v8h-8c-4.4 0-8 3.6-8 8v32c0 4.4 3.6 8 8 8h48c4.4 0 8-3.6 8-8V56c0-4.4-3.6-8-8-8zm-24-8h-8v8h8v-8z" fill="white"/>
+  
+  <!-- Checkmark -->
+  <path d="M64 84c-1 0-2-.4-2.8-1.2l-12-12c-1.6-1.6-1.6-4.1 0-5.7 1.6-1.6 4.1-1.6 5.7 0l9.1 9.1 19.1-19.1c1.6-1.6 4.1-1.6 5.7 0 1.6 1.6 1.6 4.1 0 5.7l-22 22c-.8.8-1.8 1.2-2.8 1.2z" fill="white"/>
+</svg> 

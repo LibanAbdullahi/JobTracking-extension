@@ -1,0 +1,34 @@
+#save-to-notion-btn {
+  margin-left: 8px !important;
+}
+
+.notion-save-notification {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  padding: 12px 20px;
+  border-radius: 4px;
+  color: white;
+  font-weight: 500;
+  z-index: 9999;
+  animation: slideIn 0.3s ease-out;
+}
+
+.notion-save-notification.success {
+  background-color: #2ecc71;
+}
+
+.notion-save-notification.error {
+  background-color: #e74c3c;
+}
+
+@keyframes slideIn {
+  from {
+    transform: translateX(100%);
+    opacity: 0;
+  }
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+} 
